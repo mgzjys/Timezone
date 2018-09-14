@@ -119,7 +119,7 @@ $("#slider").dateRangeSlider({
 	}]
 });
 
-d3.csv("csv/182-29out-5min.csv", function(collection) {
+d3.csv("https://mgzjys.github.io/Timezone/csv/182-29out-5min.csv", function(collection) {
 
 	/*setTimeout(function () {
 		$('.inner').fadeTo('slow', 0.4);

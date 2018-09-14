@@ -19,6 +19,7 @@ log/*
 *.sublime-workspace
  
 # Eclipse
+.classpath
 .project
 .settings/
  
